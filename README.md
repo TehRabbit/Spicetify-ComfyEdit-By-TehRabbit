@@ -3,7 +3,11 @@
 ![ab0ec9bb-b2bd-4a38-a727-c0f99de2bd14](https://user-images.githubusercontent.com/57992120/149066086-a83c7e5e-0da7-4990-911f-17a1e4a5bc99.jpg)
 
 ---
-**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE "THEMES" FOLDER IN ".SPICEFIY"**
+⚠️️**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE "THEMES" FOLDER IN ".SPICEFIY"**⚠️️
+
+*- If you want to have the image header on a playlist, move the "Comfy.js" file to the "Extensions" folder and do:*
+``` spicetify config extensions Comfy.js
+```
 
 ---
 **!!ALL OF THE TEXT BELOW IS WRITTEN BY THE ORIGINAL CREATOR: NYRI4 https://github.com/NYRI4/Comfy-spicetify!!**
@@ -66,19 +70,3 @@ The theme part is now updating itself for users using the version of Spicetify e
 5. Enjoy !
 
 For the users that don't want to update Spicetify to the newest version, do the same with [this](https://nyri4.github.io/Comfy-spicetify/Comfy.js) and paste it in the `user.css` replacing the `@import`.
-
-### 🖌️ Customization
-
----
-
-Go into your theme folder and open either :
-
-`color.ini` for the colors
-
-`user.css` to modify the code
-
-## 🖼️ More preview
-
-| Home | Friend list
-| :---------: | :---------:
-| ![Preview](https://nyri4.github.io/Comfy-spicetify/assets/home.png)  | ![Preview](https://nyri4.github.io/Comfy-spicetify/assets/friend-list.png)
