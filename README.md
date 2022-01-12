@@ -6,7 +6,8 @@
 ⚠️️**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE "THEMES" FOLDER IN ".SPICEFIY"**⚠️️
 
 *- If you want to have the image header on a playlist, move the "Comfy.js" file to the "Extensions" folder and do:*
-``` spicetify config extensions Comfy.js
+```
+spicetify config extensions Comfy.js
 ```
 
 ---
