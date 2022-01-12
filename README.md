@@ -3,6 +3,8 @@
 ![ab0ec9bb-b2bd-4a38-a727-c0f99de2bd14](https://user-images.githubusercontent.com/57992120/149066086-a83c7e5e-0da7-4990-911f-17a1e4a5bc99.jpg)
 
 ---
+Spicetify: https://github.com/khanhas/spicetify-cli
+---
 ⚠️️**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE "THEMES" FOLDER IN ".SPICEFIY"**⚠️️
 
 *- If you want to have the image header on a playlist, move the "Comfy.js" file to the "Extensions" folder and do:*
