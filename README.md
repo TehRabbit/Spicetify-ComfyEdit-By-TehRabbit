@@ -5,8 +5,8 @@
 
 ---
 
-Spicetify download if u haven't: https://github.com/khanhas/spicetify-cli
-Youtube Tutorial: https://www.youtube.com/watch?v=PoSidNiRu-g
+- Spicetify download if u haven't: https://github.com/khanhas/spicetify-cli
+- Youtube Tutorial: https://www.youtube.com/watch?v=PoSidNiRu-g
 
 ---
 ⚠️️**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE `THEMES` FOLDER IN `.SPICEFIY`**⚠️️
