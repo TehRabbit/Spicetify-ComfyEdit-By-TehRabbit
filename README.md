@@ -4,7 +4,7 @@
 ![unknown](https://user-images.githubusercontent.com/57992120/149069725-580b9c43-61b3-45a0-b7ea-8a73b0010369.png)
 
 ---
-
+**FOR THOSE WHO DONT HAVE SPICEFY YET:**
 - Spicetify Download: https://github.com/khanhas/spicetify-cli
 - Youtube Tutorial: https://www.youtube.com/watch?v=PoSidNiRu-g
 
