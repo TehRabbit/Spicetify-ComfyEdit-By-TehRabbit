@@ -12,7 +12,7 @@ spicetify config extensions Comfy.js
 
 ---
 **!!ALL OF THE TEXT BELOW IS WRITTEN BY THE ORIGINAL CREATOR: NYRI4 https://github.com/NYRI4/Comfy-spicetify!!**
-
+---
 ### 📥 Installation
 
 Go into your `Themes` folder in `.spicetify` then do :
