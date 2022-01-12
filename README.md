@@ -1,11 +1,12 @@
-![Banner](https://nyri4.github.io/Comfy-spicetify/assets/banner.png)
---- 
+**PREVIEW:**
 
-![Preview](https://nyri4.github.io/Comfy-spicetify/assets/preview.png)
+![ab0ec9bb-b2bd-4a38-a727-c0f99de2bd14](https://user-images.githubusercontent.com/57992120/149066086-a83c7e5e-0da7-4990-911f-17a1e4a5bc99.jpg)
 
-### 📥 Installation
+**!!ALL OF THE TEXT BELOW IS WRITTEN BY THE ORIGINAL CREATOR: NYRI4 https://github.com/NYRI4/Comfy!!**
 
 ---
+
+### 📥 Installation
 
 Go into your `Themes` folder in `.spicetify` then do :
 ```sh
