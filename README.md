@@ -9,7 +9,11 @@
 - Youtube Tutorial: https://www.youtube.com/watch?v=PoSidNiRu-g
 
 ---
+
 ⚠️️**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE `THEMES` FOLDER IN `.SPICEFIY`**⚠️️
+![unknown](https://user-images.githubusercontent.com/57992120/149071826-9db637c3-20cc-497f-ae94-e6f597e91b47.png)
+
+---
 
 *- If you want to have the image header on a playlist, move the `Comfy.js` file to the `Extensions` folder and do:*
 ```
