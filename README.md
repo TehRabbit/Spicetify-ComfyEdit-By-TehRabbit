@@ -21,7 +21,7 @@ spicetify config extensions Comfy.js
 ---
 ### 📥 Installation
 
-Go into your `Themes` folder in `.spicetify` then do :
+Go into your Windows Powershell and type :
 ```sh
 git clone https://github.com/NYRI4/Comfy-spicetify
 ```
