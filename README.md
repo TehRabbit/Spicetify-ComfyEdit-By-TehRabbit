@@ -7,9 +7,9 @@
 Spicetify download if u haven't: https://github.com/khanhas/spicetify-cli
 
 ---
-⚠️️**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE "THEMES" FOLDER IN ".SPICEFIY"**⚠️️
+⚠️️**DONT FORGET TO DOWNLOAD THE ZIP FILE AND IMPORT IT TO THE `THEMES` FOLDER IN `.SPICEFIY`**⚠️️
 
-*- If you want to have the image header on a playlist, move the "Comfy.js" file to the "Extensions" folder and do:*
+*- If you want to have the image header on a playlist, move the `Comfy.js` file to the `Extensions` folder and do:*
 ```
 spicetify config extensions Comfy.js
 ```
