@@ -21,6 +21,7 @@ spicetify config extensions Comfy.js
 ```
 
 *(The image header changes depending on the banner of the selected song)*
+
 ---
 **!!ALL OF THE TEXT BELOW IS WRITTEN BY THE ORIGINAL CREATOR: NYRI4 https://github.com/NYRI4/Comfy-spicetify!!**
 ---
