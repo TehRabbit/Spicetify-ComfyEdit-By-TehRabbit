@@ -15,11 +15,12 @@
 
 ---
 
-*- If you want to have the image header on a playlist, move the `Comfy.js` file to the `Extensions` folder and do:*
+- If you want to have the image header on a playlist, move the `Comfy.js` file to the `Extensions` folder and do:
 ```
 spicetify config extensions Comfy.js
 ```
 
+*(The image header changes depending on the banner of the selected song)*
 ---
 **!!ALL OF THE TEXT BELOW IS WRITTEN BY THE ORIGINAL CREATOR: NYRI4 https://github.com/NYRI4/Comfy-spicetify!!**
 ---
