@@ -1,7 +1,8 @@
+---
 **PREVIEW:**
-
-![ab0ec9bb-b2bd-4a38-a727-c0f99de2bd14](https://user-images.githubusercontent.com/57992120/149066086-a83c7e5e-0da7-4990-911f-17a1e4a5bc99.jpg)
-![unknown](https://user-images.githubusercontent.com/57992120/149069725-580b9c43-61b3-45a0-b7ea-8a73b0010369.png)
+---
+![spotify1](https://user-images.githubusercontent.com/57992120/149266534-dd6c48b6-c156-40bb-ac0d-9e5c4310d136.png)
+![spotify2](https://user-images.githubusercontent.com/57992120/149266538-3c6be5c2-defc-43bc-a913-30014f216af6.png)
 
 ---
 **FOR THOSE WHO DONT HAVE SPICEFY YET:**
