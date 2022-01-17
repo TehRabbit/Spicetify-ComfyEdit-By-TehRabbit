@@ -1,7 +1,7 @@
 
 **PREVIEW:**
 
-![spotify1](https://user-images.githubusercontent.com/57992120/149266534-dd6c48b6-c156-40bb-ac0d-9e5c4310d136.png)
+![spootify](https://user-images.githubusercontent.com/57992120/149780021-7169673e-cce7-4ded-8785-eac774822c52.png)
 
 ---
 **FOR THOSE WHO DONT HAVE SPICEFY YET:**
